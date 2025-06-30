@@ -1,10 +1,10 @@
-/* index.css */
+/* quartos.css */
 body {
-  font-family: Arial, sans-serif;
-  background-image: url('atutaiki.png');
+  font-family: "Trebuchet MS", sans-serif;
+  background-image: url('att2.png');
   background-size: cover;
   background-position: center;
-  color: #fff;  
+  color: #fff;
   padding: 20px;
 }
 
